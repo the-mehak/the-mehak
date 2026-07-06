@@ -1,63 +1,60 @@
-<!--
-<div align="center">
-   <a href="https://github.com/Mahak-2701">
-      <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="./assets/drawing-dark.svg" height="350" width="1000" />
-           <source media="(prefers-color-scheme: light)" srcset="./assets/drawing-light.svg" height="350" width=""1000 />
-           <img alt="this is art" src="./assets/default.svg" height="300" width="1000" />
-     </picture>
-   </a>
-</div>
+# Hi there, I'm Mehak! 👋 🚀
+
+<!-- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=the-mehak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> -->
+
+I'm an aspiring web developer based in Jaipur, India, driven by a passion for the tech industry and building modern digital experiences. Currently, I'm focused on mastering JavaScript and exploring full-stack workflows.
+
+---
+
+### 💫 About Me
+
+- 💻 **Passionate about:** JavaScript and crafting clean, responsive user interfaces.
+- 🌱 **Currently learning:** Advanced frontend frameworks and refining my backend skills.
+- 🎯 **Goals:** Building scalable open-source projects and constantly leveling up my stack.
+- 💬 **Fun fact:** Might be Doing some cool stuff as you scroll! 😉
+
+---
+
+### 🛠️ Languages & Tools
+
+Here are the technologies and tools I enjoy working with:
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <!-- Backend / Databases -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
+### 📊 Activity Graph
 
 <div align="center">
-   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahak-2701&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
-    alt="stats" 
-    width="300" 
-    height="250" 
-/>
-<img
-    align="right"
-    src="https://streak-stats.demolab.com?user=Mahak-2701&theme=tokyonight&hide_border=true&background=45%2C492342%2C2F6F69" 
-    alt="stats" 
-    width="400" 
-    height="300" 
-/>
-</div>
--->
-
-## Welcome to My Github Profile 🧑‍💻
-
-- 👋 Hello, I’m Mahak Saini
-- 👀 I’m interested in JavaScript.
-- 🌱 I’m currently learning new things.
-- ✌️ I like tech industry.
-- 🧑‍💻 Building my future.
-
-### Languages and Tools:
-
-<div align="left">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/c/c-original.svg" alt="c" width="50" height="50" /> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" /> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" /> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> </a> 
-      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/express/express-original-wordmark.svg" alt="express" width="50" height="50" /> </a> 
+  <a href="https://github.com/the-mehak">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/the-mehak?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/the-mehak?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+      <img alt="GitHub Contributions" src="https://ssr-contributions-svg.vercel.app/_/the-mehak?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+    </picture>
+  </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/Mahak-2701">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Mahak-2701?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Mahak-2701?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-    <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/Mahak-2701?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)" >
-  </picture>
-</a>
-</div>
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
